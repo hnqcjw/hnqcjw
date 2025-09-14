@@ -12,9 +12,10 @@
 - Game development with SFML, a lightweight C++-based 2D multimedia framework
 
 ## Projects
-<b>[X86.1110.ASM, A JS RPG-style game fit into less than 2MB](hnqcjw.github.io)</b><br>
-[Icy, my very own interpreter for a programming language](github.com/hnqcjw/Icy)<br>
-[SophieTheMaid, a lightweight Linux chatbot that lives in the terminal](github.com/hnqcjw/SophieTheMaid)<br>
+<b>
+[X86.1110.ASM, A JS RPG-style game fit into less than 2MB](https://hnqcjw.github.io/X86.1110.ASM)</b><br>
+[Icy, my very own interpreter for a programming language](https://github.com/hnqcjw/Icy)<br>
+[SophieTheMaid, a lightweight Linux chatbot that lives in the terminal](https://github.com/hnqcjw/SophieTheMaid)<br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hnqcjw&theme=tokyonight)
 
