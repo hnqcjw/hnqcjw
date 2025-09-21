@@ -6,7 +6,7 @@
 - Playing games on my Switch
 
 ### Skills
-- OOP with C++ and Java
+- OOP with C++
 - Some web development using HTML5, CSS3 and JavaScript
 - Web game development with Kontra.js
 - Game development with SFML, a lightweight C++-based 2D multimedia framework
